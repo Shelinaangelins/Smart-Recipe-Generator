@@ -130,23 +130,6 @@ http://localhost:3000
 
 ---
 
-## 📁 Project Structure
-
-```
-smart-recipe-generator/
- ┣ app/
- ┃ ┣ api/
- ┃ ┃ ┣ recipe/
- ┃ ┃ ┣ image/
- ┃ ┣ page.js
- ┣ styles/
- ┃ ┣ globals.css
- ┣ package.json
- ┣ tailwind.config.js
-```
-
----
-
 ## 🎯 Use Case & Applications
 
 * Smart kitchen assistants
